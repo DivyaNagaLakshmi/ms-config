@@ -1,1 +1,1 @@
-# my-config
+# ms-config
